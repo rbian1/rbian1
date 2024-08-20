@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align=center>
+  <h1>Hi👋</h1> 
+</div>
 
 <!--
 **rbian1/rbian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
